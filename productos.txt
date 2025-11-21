@@ -1,0 +1,5 @@
+1|falda|250|ropa femenina
+2|vestido de gala|3000|ropa femenino
+3|zapatos de gala|465|masculino
+4|esmoquin|800|masculino
+5|camisate de manga corta|450|masculino

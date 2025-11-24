@@ -1,0 +1,6 @@
+vestido de gala|3000.0|23|69000.0
+falda|250.0|2|500.0
+zapatos de gala|465.0|2|930.0
+esmoquin|800.0|8|6400.0
+camisate de manga corta|450.0|10|4500.0
+falda|250.0|4|1000.0

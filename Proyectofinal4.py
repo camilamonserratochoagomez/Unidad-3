@@ -269,7 +269,15 @@ def abrir_reportes():
     lbl_total.pack()
 
 def abrir_acerca_de():
-    messagebox.showinfo("Acerca de", "Punto de Venta de Ropa\nProyecto Escolar\nVersión 1.0")
+      mensaje = (
+        "Punto de Venta de Ropa\n"
+        "Proyecto escolar desarrollado para la asignatura de Programación.\n"
+        "Permite registrar productos, realizar ventas y generar reportes.\n\n"
+        "Desarrollado por: Ochoa Gomez Camila Monserrat\n"
+        "CBTis 89 - 2025\n"
+        "Versión 1.0"
+    )
+      messagebox.showinfo("Acerca de", mensaje)
 
 # -------------------------
 # VENTANA PRINCIPAL
